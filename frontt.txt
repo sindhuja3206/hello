@@ -1,0 +1,38 @@
+Web Developer                  
+
+Responsibilities:
+
+Functionalities include writing code in HTML, CSS, JavaScript, JQuery, JSF and testing the functionalities using JUnit.
+Worked with the team, helping them build out their markup and CSS. My Specialty is large scale CSS focusing on reusability and modularity. 
+Created a CSS framework for using a 12 column grid preferred by the designers as well as implementing parts of CSS to cut down on repetitive code. 
+Implemented JavaScript module patterns using asynchronous script loading. 
+Displayed validation error message using CSS animations and JQuery. 
+Developed HTML interfaces with an understanding of UI design principles and object-oriented program development. 
+Developed Object Oriented JavaScript code and responsible for client side validations using JQuery. 
+Implemented Web services (SOAP) for transmission of large blocks of JSON data over HTTP. 
+Used Eclipse as the IDE and Struts Framework for developing the application, Developed the JSPs for the application. 
+Implemented Action Form classes, Action classes for the entire Reports module using Struts framework. 
+Worked through cross browser compatibility issues with existing styles and new CSS that was implemented. 
+Implemented JavaScript module patterns using asynchronous script loading. 
+Tested cross browser functionality and fixed major layout bugs for supported browsers which includes IE6. 
+Environment: HTML, CSS, JavaScript, Ajax, XML, XSLT, JSF, Servlet, ANT, Java, JDBC, Oracle, SQL, IDE- Eclipse, Source Control - SVN.
+
+Confidential
+
+Front End Developer
+
+Responsibilities:
+
+Worked with CSS Background, CSS Layouts, CSS positioning, CSS text, CSS border, CSS margin, CSS padding, CSS table, Pseudo classes, Pseudo elements and CSS behaviors in CSS. 
+Rapidly prototyped interface designs in hand-coded validating, standards-compliant, and semantically-rich code and be aware of cross-browser compatibility and bugs. 
+Created and optimized graphic prototype websites and applications interfaces using HTML and CSS . 
+Involved in writing application level code to interact with APIs , Web Services using AJAX, JSON and XML . 
+Worked with user interfaces and applied usability principle to portals
+Implemented and designed user interface for web based customer application. 
+Designed business applications using web technologies like HTML, XHTML, and CSS based on the W3C standards. 
+Responsible for code optimization and test the website across different browsers
+Developed application for different browsers and fixed bugs for browser compatibility. 
+Developed data formatted web applications and deploy the script using client side scripting using JavaScript. 
+Environment: HTML, CSS, JavaScript, ECLIPSE, Adobe Photoshop, DHTML, MS Office, Firefox, Windows XP, AJAX, JSON.
+
+

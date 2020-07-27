@@ -1,0 +1,32 @@
+Description: 
+A part of supply chain management product shipment vision, which is used for in depth tracking of containers and visibility of shipments around the various sources.  Communication of different modules through EDI 
+EDI Processor ETL tool to convert EDI 810 billing message to XML files which is input for billing Utility product. This tool converts the inbound billing message to configurable XML for Utility product. 
+Supplier Profile system is a Web project for Maintaining logistics companies profiles, to track, trip plan. System is integrated with Google maps API and other Google location service API for interactive search. 
+
+Responsibilities 
+
+Responsible for designing, development and testing of the assigned modules.
+Design relational database creating tables and views. 
+Designed and implemented a web-based GUI using JSPs.
+Responsible for providing client side validations using JavaScript.
+Extensively used Ajax tag library to provides support for live form updates for the following use cases: auto complete based on character input to an input field, select box population based on selections made from another field, callout or balloon popup for highlighting content, refreshing form fields, and toggling images and form field states on/off.
+The web application featured a thin rich-client front-end that used dynamic HTML and AJAX techniques prior to the coining of the term AJAX.
+Used J2EE Design Patterns such as Service Locator, Singleton, DTO (Data Transfer Object), DAO (Data Access Object).
+Develop persistence layer using Hibernate.
+Developed business logic using EJBs.
+Converting existing EJBs to Spring services built on top of TIBCO JMS
+ETL Framework for integrating EDI from different to vendors to shipment vision.
+Developed a bridge framework for EDI communications with suppliers. 
+Integrated supplier profile system with various Google API Maps, location and search
+Integrated Car Location Messages (CLM) with shipment vision for activity details
+Develop PL/SQL Stored Procedures, Functions.
+Performance tuning the SQL’s.
+Developed DAO (Data Access Object) classes in order to access data from database. 
+Used Log4j logger tool for logging warnings and error messages.
+Created the build system-using Ant.
+Involved in transition of Ant to Maven.
+Involved in Unit Testing and Functional Testing.
+Involved in developing jasper reports using iReport tool
+Involved in Bug fixing the modules.
+Environment:
+SVN, Junit, EJB, JSP, HTML, Java Script, Spring, Wicket, Google API, Maven, XML, JMS, Quartz, Hibernate, XML, UNIX,  EDI 810 and EDI 811, EDI 322, EDI 421, EDI 404, jasper report, ireport

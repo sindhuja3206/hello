@@ -1,0 +1,25 @@
+Java/API Developer
+QuEST Global, Windsor, ON						January 2019 to Present
+Responsibilities:  
+Involved in programming, testing, debugging, implementing and maintaining of Java EE distributed application to meet the project needs.
+Implemented new POJO's for the new adapter services.
+Developed various java objects (POJO) as part of persistence classes for mapping with databases
+Developed RESTful Web Services to retrieve data from client side Micro services architecture
+Used Java Messaging Service (JMS) for messaging, configured queues and topics on the web logic application server.
+Used Spring Boot as framework allowed to receive user requests and send them to the server.
+Used Apache Kafka in cluster as messaging system between the APIs and Micro services.
+Involved in complete testing of the application and used J-Unit for writing unit-test cases.
+Involved in Configuring Jenkins for Continuous Integration used Git to control the build version
+Developed the application with Continuous Integration and Deployment using Jenkins.
+Used SQL Developer for verifying the database information and worked with Apache Cassandra.
+Involved in Unit-test planning using J-Unit and designing test cases for the project.
+Played key role in the development of data Mapping a bean mapping project using open source Map Structure.
+Involved in developing Restful web services using Spring MVC.
+Developed Micro services using Spring Boot.
+Used Spring Boot to build a basic web-based database app that connect to the database to get and update information.
+Developed test automation framework for REST APIs consuming services using TestNG.
+GIT was used for project management and version management.
+Created Json Avro's according to the Request payloads.
+Used Splunk tool to search the application logs and used Log4j for logging.
+  
+Tools and Environment: JDK 1.8, Springboot, Apache Kafka, Postman, JavaScript, Web Services, Cassandra, Jenkins, POJO's, JAX-WS, Subversion, STS (Spring Tool Suite) 3.9.
